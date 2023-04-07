@@ -1,0 +1,58 @@
+body{
+    background-image:url("im/pexels-maxyne-barcel-10402282\ 1.png");
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+.hero-left-section h1 {
+    text-align: center;
+    color: rgb(243, 75, 9);
+    font-size: 80px;
+}
+.dd{
+    text-align: center;
+    color:darkgoldenrod
+}
+nav{
+    padding:20px 10%;
+    height:15vh;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+    text-decoration: none;
+    color: brown;
+
+}
+nav ul li{
+    list-style: none;
+    margin-right:15%;
+    font-weight: 900;
+   
+}
+.dd button{
+    padding:2px 2%;
+    color: black;
+    background-color: crimson;
+    border: none;
+    border-radius:10% ;
+    padding:20px 5%;
+    
+    
+}
+.dd :hover{
+    background-color: chartreuse;
+   
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+}
+sqwe    1`  w fghyuiop[]=4e3wsaz
+.sneha2 button{
+    padding:2px 2%;
+    color: black;
+    background-color: crimson;
+    border: none;
+    border-radius:10% ;
+    padding:20px 5%;
+}
